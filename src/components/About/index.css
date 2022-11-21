@@ -1,0 +1,26 @@
+.bg-container {
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-dark {
+  background-color: black;
+}
+.head-light {
+  color: white;
+}
+.head-dark {
+  color: black;
+}
